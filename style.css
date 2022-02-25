@@ -76,3 +76,11 @@ img:hover {
     column-gap: 25px;
     column-count: 2;
 }
+.form input{
+    padding: 12px 20px;
+    width: 20%;
+    margin: 8px;
+}
+.form input[type=submit] {
+    width: 9%;
+}
