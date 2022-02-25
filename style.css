@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+
 }
 .navbar {
     size-adjust:inherit;
@@ -11,7 +12,7 @@ ul{
     padding: 0;
 }
 li {
-    float: left;
+    float: right;
     border-right: 2px solid black;
 }
 li a {
@@ -22,19 +23,31 @@ li a {
     text-align: center;
 }
 .header1 h2 {
-    text-align: right;
+    text-align: left;
     font-weight: bolder;
     font-size: 40px;
     font-style: italic;
     margin: 0;
     padding: 0;
+    color: black
 }
 .header1 p {
-    text-align: right;
+    text-align: left;
     font-size: 19px;
     font-style: italic;
     font-display:initial;
     font-weight: lighter;
-    margin: 0;
+    margin: 0;s
     padding: 0;
+    color: black
+}
+.container {
+
+}
+img {
+    float: left;
+    opacity: 0.5;
+}
+img:hover {
+    opacity: 1.0;
 }
