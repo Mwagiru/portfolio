@@ -39,7 +39,6 @@ li a:hover {
     text-align: center;
     font-size: 19px;
     font-style: italic;
-    font-display:initial;
     font-weight: lighter;
     margin: 0;
     padding: 0;
@@ -59,4 +58,17 @@ img {
 }
 img:hover {
     opacity: 1.0;
+}
+.container2 h3 {
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    font-style: italic;
+}
+.container2 p {
+    padding: 10px;
+    margin: 4px;
+    column-rule: 0.5px dotted black;
+    column-gap: 25px;
+    column-count: 2;
 }
