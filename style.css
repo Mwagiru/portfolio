@@ -76,19 +76,41 @@ img:hover {
     column-gap: 25px;
     column-count: 2;
 }
+.form {
+    float: left;
+}
 .form input{
     padding: 12px 20px;
-    width: 20%;
+    width: 50%;
     margin: 8px;
 }
 .form input[type=submit] {
-    width: 9%;
+    width: 30%;
+    text-align: center;
 }
-footer {
-    position:fixed;
+.footer {
+    background-color:gray;
+    padding: 18px;
+    margin: 10px;
     width: 100%;
-    height: 50px;
-    background-color: black;
-    color: aliceblue;
+    float: left;
+    height: auto;
+}
+.comm {
+    float: right;
+    text-align: center;
+    font-size: large;
 
+}
+.links {
+
+    column-count: 4;
+    column-gap: normal;
+    column-rule: 0.5px solid black;
+    text-align: center;
+}
+.links a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
 }
