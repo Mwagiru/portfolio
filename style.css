@@ -120,3 +120,9 @@ img:hover {
     display: flex;
     justify-content: center;
 }
+.text {
+    font-size:5ch;
+    font-weight: 200;
+    font-family:sans-serif;
+    font-style: oblique;
+}
