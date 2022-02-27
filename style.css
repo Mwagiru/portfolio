@@ -4,6 +4,7 @@
 }
 .navbar {
     size-adjust:inherit;
+    background-color: #272727;
 }
 ul{
     overflow: hidden;
@@ -16,7 +17,7 @@ li {
     border-right: 2px solid black;
 }
 li a {
-    color: black;
+    color: wheat;
     padding: 5px;
     text-decoration: none;
     display: block;
@@ -24,7 +25,7 @@ li a {
     padding: 15px 56px;
 }
 li a:hover {
-    background-color: grey;
+    background-color: #F4C430
 }
 .header1 h2 {
     text-align: center;
@@ -44,14 +45,14 @@ li a:hover {
     padding: 0;
     color: black
 }
-.container {
-    background-image: linear-gradient(to bottom right,black, white);
+.header1 {
+    background-color: #FCE205;
     background-size: cover;
     width: 100%
 }
 img {
     float: left;
-    opacity: 0.6;
+    opacity: 1.0;
     border: 0.5px;
     padding:0;
     box-shadow: 6px 6px 10px black, 12px 12px 10px black, 13px 13px 10px black;
@@ -61,7 +62,10 @@ img {
     
 }
 img:hover {
-    opacity: 1.0;
+    opacity: 0.88;
+}
+.container2 {
+    background-color: white
 }
 .container2 h3 {
     text-align: center;
@@ -78,6 +82,7 @@ img:hover {
 }
 .form {
     float: left;
+    color: wheat;
 }
 .form input{
     padding: 12px 20px;
@@ -89,12 +94,13 @@ img:hover {
     text-align: center;
 }
 .footer {
-    background-color:gray;
+    background-color: #272727;
     padding: 18px;
     margin: 10px;
     width: 100%;
     float: left;
     height: auto;
+    color: white;
 }
 .comm {
     float: right;
@@ -107,10 +113,11 @@ img:hover {
     column-gap: normal;
     column-rule: 0.5px solid black;
     text-align: center;
+    color: white;
 }
 .links a {
     text-decoration: none;
-    color: black;
+    color: wheat;
     padding: 10px;
 }
 .copy {
@@ -125,4 +132,8 @@ img:hover {
     font-weight: 200;
     font-family:sans-serif;
     font-style: oblique;
+    background-color: #FEDC56;
+}
+address {
+    color: wheat;
 }
