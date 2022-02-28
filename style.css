@@ -133,6 +133,7 @@ img:hover {
     font-family:sans-serif;
     font-style: oblique;
     background-color: #FEDC56;
+    overflow: hidden;
 }
 address {
     color: wheat;
