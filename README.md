@@ -1,7 +1,7 @@
 # landingPage
 Every programmer needs a portfolio to basically showcase their work. The portfolio helps gauge the programmer's skills.Now before diving into the portfolio, one will obviously view the homepage and this project focuses on creating a good homepage for the portfolio.
 ## author name
-Joy Mwagiru made coded this project and made this README file
+Joy Mwagiru coded this project and made this README file
 ## setup instructions
 You could also make your own landing page by following setup instructions. Let's make one:
 1. create an empty repository(either locally or remotely)
