@@ -16,5 +16,7 @@ You could also make your own landing page by following setup instructions. Let's
 9. include a detailed README file(just to make it easy for people to understand your project)
 ## link to project's github pages
 [project's github link] (https://github.com/Mwagiru/portfolio.git)
-## copyright info
-Copyright (c) 2022 All Rights Reserved Landing Page
+## copyright info and license info
+MIT License
+
+Copyright (c) 2022 Mwagiru
